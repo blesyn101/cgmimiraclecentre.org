@@ -1,0 +1,24 @@
+
+h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+#header{
+    position: relative;
+    height: 30vh;
+    background-color: #ffffff;
+}
+.navbar .nav-link{
+    color: #833556;
+}
+
+#prayer-request{
+    background-color: #ffffff;
+    padding: 0 20px 70px;
+}
+.prayer-request{
+    margin-top: 20px;
+    background-color: #eeeeee;
+    padding: 90px;
+}

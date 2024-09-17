@@ -1,0 +1,25 @@
+
+h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+#header{
+    position: relative;
+    height: 30vh;
+    background-color: #ffffff;
+}
+.navbar .nav-link{
+    color: #833556;
+}
+#live{
+    background-color: #ffffff;
+    padding-bottom: 70px;
+}
+.first{
+    padding: 0 50px;
+    background-color: #eeeeee;
+}
+.live{
+    padding:70px 50px;
+}

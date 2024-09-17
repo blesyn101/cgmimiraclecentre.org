@@ -1,0 +1,78 @@
+h5, h6{
+    font-size: 19px;
+    line-height: 1.2rem;
+    font-family: "Arial", Sans-serif;
+    color: #ffffff;
+}
+h4{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+blockquote{
+    margin: 25px 49.5px 16.5px;
+    padding: 19.8px;
+    border-left: 5px solid;
+    border-color: #dddddd;
+    font-size: 19px;
+    line-height: 35px;
+    font-style: italic;
+}
+#header{
+    position: relative;
+    height: 84vh;
+    background-color: gray;
+}
+.header{
+    font-size: 29px;
+    line-height: 1.2rem;
+    font-family: "Arial", Sans-serif;
+}
+
+#history{
+    padding-top: 100px;
+}
+#custom-hr {
+    border: 0;
+    height: 2px;
+    background-color: #000;
+    width: 100%;
+}
+
+.hero{
+    padding: 90px 50px 0px;
+}
+
+/* statement section */
+#statement{
+    padding: 25px 0 125px 80px;
+}
+
+.statement-hr{
+    border: 0;
+    height: 2px;
+    background-color: #833556;
+    margin-bottom: 50px;
+    width: 100%;
+}
+.mission, .vision{
+    color: #833556;
+    font-size: 29px;
+    font-weight: 700;
+    line-height: 1.2rem;
+    font-family: "Arial", Sans-serif;
+    padding: 50px;
+}
+#gallery img, #gallery h6{
+    padding: 20px;
+    margin: auto;
+}
+.gallery-card{
+    border: 0;
+}
+
+@media (max-width: 768px) {
+    #header{
+        height: 50vh;
+    }
+}

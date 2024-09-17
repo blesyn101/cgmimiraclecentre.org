@@ -1,0 +1,26 @@
+p{
+    font-family: "helvetical";
+    font-size: 11px;
+    color: #000;
+    padding: 20px 0;
+}
+#header{
+    position: relative;
+    height: 30vh;
+    background-color: #ffffff;
+}
+.navbar .nav-link{
+    color: #833556;
+}
+iframe{
+    width: 100%;
+}
+#radio{
+    background-color: #ffffff;
+    padding-bottom: 70px;
+}
+.radio{
+    background-color: #eeeeee;
+    padding: 100px;
+    padding-bottom: 180px;
+}
